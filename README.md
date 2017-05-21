@@ -13,9 +13,9 @@ http://www.activiti.org/userguide/index.html#chapterApi
 
 # Modifications:
 
-1. Without "BAR" style deployment, using "addClasspathResource" style. 
+1. Update the below java file after the first run with the comment the *run* and *usersAndGroupsInitializer* methods, becuase the username and group has been created for the first run. 
 
-@see: https://github.com/vinstonpandiyan/activiti-drools-example/master/src/test/java/org/activiti/designer/test/ProcessTestMyProcess.java
+@see: https://github.com/vinstonpandiyan/spring-boot-bpmn-multitenant/blob/master/src/main/java/com/vinston/workflow/MyApp.java
 
 # TODO:
 
