@@ -5,15 +5,11 @@ Spring-boot BPMN Multitenant Example
 
 # Tutorial: 
 
-http://www.attuneww.com/ebook/drools-activiti-integration.pdf
-
-# Drools:
-
-@see: https://github.com/vinstonpandiyan/activiti-drools-example/master/src/main/resources/diagrams/LoanRequestRules.drl
+http://www.activiti.org/userguide/index.html#chapterApi
 
 # BPM Diagram:
 
-![Screenshot of "BPM Diagram"](https://raw.githubusercontent.com/vinstonpandiyan/activiti-drools-example/master/src/main/resources/diagrams/BusinessRuleLoanProcess.png)
+![Screenshot of "BPM Diagram"](https://raw.githubusercontent.com/vinstonpandiyan/spring-boot-bpmn-multitenant/master/src/main/resources/itemPriceApproval.bpmn20.bmp)
 
 # Modifications:
 
